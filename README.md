@@ -23,3 +23,10 @@ python main.py --method logistic_regression --lr 1e-3 --max_iters 500 --task bre
 ```bash
 python main.py --method knn --K 17 --task <either center_locating or breed_identifying>
 ```
+
+### Collaborators
+| Name | GitHub |
+| ---- | ------ |
+| Leon Petrinos | [leonpetrinos](https://github.com/leonpetrinos) |
+| Andrea Trugenberger | [AndreaTrugenberger](https://github.com/AndreaTrugenberger) |
+| Youssef Chelaifa | [chelaifa](https://github.com/chelaifa) |
